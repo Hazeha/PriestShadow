@@ -1,0 +1,5 @@
+C:\Users\xhazes\Documents\GitHub\PriestShadow\obj\Debug\XhzPriest.csprojResolveAssemblyReference.cache
+C:\Users\xhazes\Documents\GitHub\PriestShadow\obj\Debug\CustomClassTemplate.Gui.CCGui.resources
+C:\Users\xhazes\Documents\GitHub\PriestShadow\obj\Debug\XhzPriest.csproj.GenerateResource.Cache
+C:\Users\xhazes\Documents\GitHub\PriestShadow\obj\Debug\XhaPriest[Shadow].dll
+C:\Users\xhazes\Documents\GitHub\PriestShadow\obj\Debug\XhaPriest[Shadow].pdb

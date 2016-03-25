@@ -26,7 +26,7 @@ namespace CustomClassTemplate.Objects
                 () =>
                 //--What Parametters to take care of before casting--//
                     Helpers.CanCast("Power Word: Shield") &&
-                    Me.ManaPercent >= 20 && Target.HealthPercent >= 15 && Me.HealthPercent <= 80 &&
+                    Me.ManaPercent >= 20 && Target.HealthPercent >= 15 && (Me.HealthPercent <= 80 || Target.GotDebuff("Vampiric Embrace")) &&
                     !Me.GotDebuff("Weakened Soul"), customAction:
                 () =>
                 {
